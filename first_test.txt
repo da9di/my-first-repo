@@ -1,2 +1,6 @@
 As-salam GitHub
+<<<<<<< HEAD
 Строка из ветки main
+=======
+Строка из ветки conflict-branch
+>>>>>>> conflict-branch
